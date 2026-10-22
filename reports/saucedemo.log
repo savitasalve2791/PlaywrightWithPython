@@ -1,0 +1,10 @@
+2026-10-14 12:29:05,203 INFO Test session started
+2026-10-14 12:29:19,512 ERROR Failure screenshot for tests/test_cart.py::test_product_can_be_removed_from_cart[chromium]: C:\PlaywrightWithPython\reports\TC_test_product_can_be_removed_from_cart_chromium_STEP_call_20261014T122919.png
+2026-10-14 12:29:28,169 ERROR Failure screenshot for tests/test_login.py::test_valid_login_opens_inventory[chromium]: C:\PlaywrightWithPython\reports\TC_test_valid_login_opens_inventory_chromium_STEP_call_20261014T122928.png
+2026-10-14 12:29:33,062 INFO Test session finished with exit status 1: {'passed': 11, 'failed': 2, 'skipped': 0, 'deselected': 0}
+2026-10-14 12:29:56,676 INFO Test session started
+2026-10-14 12:30:08,351 INFO Test session finished with exit status 0: {'passed': 13, 'failed': 0, 'skipped': 0, 'deselected': 0}
+2026-10-19 12:31:51,655 INFO Test session started
+2026-10-19 12:32:25,078 INFO Test session finished with exit status 0: {'passed': 13, 'failed': 0, 'skipped': 0, 'deselected': 0}
+2026-10-19 12:34:14,354 INFO Test session started
+2026-10-19 12:34:14,371 INFO Test session finished with exit status 4: {'passed': 0, 'failed': 0, 'skipped': 0, 'deselected': 0}
